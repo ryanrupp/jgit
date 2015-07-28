@@ -50,6 +50,7 @@
 
 <!-- make a change -->
 <!-- second change -->
+<!-- third change -->
   <groupId>org.eclipse.jgit</groupId>
   <artifactId>org.eclipse.jgit-parent</artifactId>
   <packaging>pom</packaging>
